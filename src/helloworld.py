@@ -1,4 +1,8 @@
+def HiW(city):
+    print (f'Hi world from {city}')
+
+
 def main():
-    print ("Hi world")
+    HiW('NYC')
 
 main()
